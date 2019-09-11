@@ -11,6 +11,10 @@ public class Springboot05SecurityApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		String s ="qweqwe";
+		System.err.println("s======"+s);
+
 	}
 
 }
