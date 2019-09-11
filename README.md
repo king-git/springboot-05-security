@@ -5,3 +5,4 @@ security系统安全权限演示，登录验证，访问权限控制等
 本演示 springboot2.1.7和springsecurity5，在html页面引入的命名空间如下：
 xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity5"
 
+![image](imgs/搜狗截图19年09月11日1602_1.png)
